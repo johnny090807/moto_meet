@@ -1,5 +1,5 @@
-.expo
-.vs
+./.expo
+./.vs
 /motomeet-backend/node_modules
 /my-app/node_modules
 /my-webapp/node_modules
